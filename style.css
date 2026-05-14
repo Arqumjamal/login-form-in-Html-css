@@ -12,10 +12,11 @@ body {
     justify-content: center;
     align-items: center;
     min-height:100vh;
-    background: linear-gradient(135deg, #5b380feb, #e87006f5);
-}
-.wrapper {
-    background-color: #b37422;
+    background: url(https://t3.ftcdn.net/jpg/06/28/87/40/240_F_628874053_py9agOrUAPy2kTvgvrjogzA3BGXsHv7r.jpg) no-repeat center center/cover;
+}   
+    .wrapper {
+
+    background-color: #445061;
     border-radius: 10px;
     width: 400px;
     padding: 40px 30px;
